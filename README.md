@@ -1,16 +1,24 @@
-# React + Vite
+## AI-Driven Personalized Learning Assistant 🎓🤖
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+This project aims to improve engineering education for students in semi-urban and rural institutions by providing a personalized, AI-powered learning experience.
 
-Currently, two official plugins are available:
+Traditional teaching methods often fail to address individual learning speeds, weak fundamentals, and limited academic support. This platform solves that gap by offering an intelligent learning assistant that adapts to each student’s level and learning needs.
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) (or [oxc](https://oxc.rs) when used in [rolldown-vite](https://vite.dev/guide/rolldown)) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+### 🚀 Key Features
+- AI-powered doubt solving with accurate, subject-specific answers
+- Personalized learning paths based on student performance
+- Simple and clear explanations for complex engineering concepts
+- Practice questions, quizzes, and instant feedback
+- Support for exam preparation and project guidance
+- Faculty dashboard for monitoring student progress
 
-## React Compiler
+### 🎯 Objective
+To make quality engineering education accessible, adaptive, and effective for students regardless of their geographical location.
 
-The React Compiler is not enabled on this template because of its impact on dev & build performances. To add it, see [this documentation](https://react.dev/learn/react-compiler/installation).
+### 🛠️ Tech Stack (Planned)
+- Frontend: HTML, CSS, JavaScript / React
+- Backend: Node.js / Python (Flask)
+- Database: MySQL / PostgreSQL
+- AI Integration: Large Language Models (LLMs)
 
-## Expanding the ESLint configuration
-
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+This project is developed as part of an academic initiative and can be extended into a scalable educational platform in the future.
